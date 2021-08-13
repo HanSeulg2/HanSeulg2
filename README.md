@@ -1,17 +1,24 @@
 
 
 <!---
-HanSeulg2/HanSeulg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HanSeulg2/HanSeulg2 is a  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 👀 I’m interested in ...📫
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on ...
 --->
 
 
 #### 👋 Hi, I’m Seulgi han.
-- 👀 I’m interested in ...📫
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
-#  💻Tech Stack
 
+# ✨ Career ✨
+|Date|Contents|etc|
+|------|---|---|
+|2016.03 ~ 2022.02|DEPT/Compuder Software Engineering|DEU|
+|2020.11|소프트웨어 테스팅 경진대회 참가|DEU|
+|2021.07 ~ 2021.12|디비밸리(주)|인턴십|
+
+#  💻Tech Stack
 - Programming Languages
 
      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=&logo=java&logoColor=white)
@@ -21,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=&logo=python&logoColor=ffdd54)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=&logo=cmake&logoColor=white)
 - Frameworks, Platforms and Libraries
 
      ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=&logo=spring&logoColor=white)
@@ -40,9 +48,6 @@ You can click the Preview link to take a look at your changes.
      ![SVN](https://img.shields.io/badge/SVN-%2300599C.svg?style=&logo=subversion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=&logo=git&logoColor=white)
-- Servers
-
-     ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=&logo=apache&logoColor=white)
 - Databases
 
      ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=&logo=oracle&logoColor=white)
@@ -53,9 +58,7 @@ You can click the Preview link to take a look at your changes.
      ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
-- Other
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=&logo=docker&logoColor=white)
 
-     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=&logo=cmake&logoColor=white)
 ### 👀GitHub Stats👀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeulg2&theme=dark&show_icons=true)
