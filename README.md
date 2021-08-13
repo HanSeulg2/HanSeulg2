@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 |------|---|---|
 |2016.03 ~ 2022.02|DEPT/Compuder Software Engineering|DEU|
 |2020.11|소프트웨어 테스팅 경진대회 참가|DEU|
+|2021.02|재학생성적우수자장학금|DEU|
 |2021.07 ~ 2021.12|디비밸리(주)|인턴십|
 
 #  💻Tech Stack
