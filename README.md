@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 |2021.07 ~ 2021.12|디비밸리(주)|인턴십|
 |21.07.08 ~ 07.16|웹 개발 기초 교육 이수|하계|
 |21.07.19 ~ 10.01|파나시아 QMS&CHS 시스템 구축|장기|
-|21.10.05 ~ 12.28|아진산업 PLM&QMS 개발 구축|장기|
+|21.10.05 ~ 12.28|아진산업 PLM 개발 구축|장기|
 
 
 #  💻Tech Stack
